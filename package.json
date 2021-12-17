@@ -1,0 +1,16 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "description": "test",
+  "author": "Saleh The Test <altigov00@mail.ru>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
